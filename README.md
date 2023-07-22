@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoseBuschiazzo
-- 👀 I’m interested in Electronics and C++
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on Java
+- 👀 I’m interested in Data Science, Full Stack and Electronics
+- 🌱 I’m currently learning Full Stack and Data Science
+- 💞️ I’m looking to collaborate on Java and Python
 - 📫 How to reach me ...
 
 <!---

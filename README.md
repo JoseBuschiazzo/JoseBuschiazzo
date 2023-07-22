@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JoseBuschiazzo
+- 👋 Hi, I’m Jose Buschiazzo
 - 👀 I’m interested in Data Science, Full Stack and Electronics
 - 🌱 I’m currently learning Full Stack and Data Science
 - 💞️ I’m looking to collaborate on Java and Python
